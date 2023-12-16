@@ -1,0 +1,7 @@
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (4)\Progra-I-A1-2023-crud_sistema\ejercicios\obj\Debug\Recuperacion.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (4)\Progra-I-A1-2023-crud_sistema\ejercicios\obj\Debug\ejercicios.frmImpresionMaterias.resources
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (4)\Progra-I-A1-2023-crud_sistema\ejercicios\obj\Debug\ejercicios.materias.resources
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (4)\Progra-I-A1-2023-crud_sistema\ejercicios\obj\Debug\Recuperacion.Properties.Resources.resources
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (4)\Progra-I-A1-2023-crud_sistema\ejercicios\obj\Debug\Recuperacion.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (4)\Progra-I-A1-2023-crud_sistema\ejercicios\obj\Debug\Recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (4)\Progra-I-A1-2023-crud_sistema\ejercicios\obj\Debug\Recuperacion.SqlServerTypes.principal.resources
